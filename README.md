@@ -1,6 +1,6 @@
 ## 淘宝接口API开发
 
-> 访问案例：http://taobao.flc.ren/
+> 访问案例：http://taobao.flc.ren/ （经常被恶意攻击，90% 的时间是罢工的 :smile::smile:）
 >
 > 源码地址：https://github.com/flc1125/taobao-open-api
 
