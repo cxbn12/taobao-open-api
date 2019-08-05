@@ -1,6 +1,6 @@
 ## 淘宝接口API开发
 
-> 访问案例：http://taobao.flc.ren/ （经常被恶意攻击，90% 的时间是罢工的 :smile::smile:）
+> 访问案例：http://taobao.flc.ren/ （个人的 app_key 现在无权限了，案例无法正常访问。本仓库代码不影响，有权限的 key 可正常使用 :smile::smile:）
 >
 > 源码地址：https://github.com/flc1125/taobao-open-api
 
