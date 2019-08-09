@@ -92,3 +92,14 @@ class IndexController extends Controller {
 ### 其他说明
 
 - 目前仅开发以上接口，其他接口暂时无权限；如需拓展，请在`/ThinkPHP/Library/Com/Taobao/Request/`下新增类
+
+## 捐赠
+
+如果你觉得本扩展对你有帮助，请捐赠以表支持，谢谢~~
+
+<table>
+    <tr>
+        <td align="center"><img src="https://flc.io/static/images/wechat.jpg" width="220"><p>微信</p></td>
+        <td align="center"><img src="https://flc.io/static/images/alipay.jpg" width="220"><p>支付宝</p></td>
+    </tr>
+</table>
